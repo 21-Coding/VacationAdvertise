@@ -31,3 +31,9 @@ img {
   background-color: transparent;
 
 }
+
+.special {
+  width: 100px;
+  border: 15px;
+  margin: 20px;
+}
