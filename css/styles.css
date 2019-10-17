@@ -1,0 +1,33 @@
+.jumbotron {
+  text-align: center;
+  color: white;
+  background-color: aqua;
+  opacity: 20px;
+}
+
+body {
+  background: url('../img/break.jpg');
+  background-repeat: no-repeat;
+  background-size: 1200px 1200px;
+}
+
+blockquote {
+
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+
+}
+
+img {
+
+  width: 300px;
+  border: 15px;
+  margin: 20px;
+
+}
+
+.well {
+  background-color: transparent;
+
+}
