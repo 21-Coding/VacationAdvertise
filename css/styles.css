@@ -11,6 +11,15 @@ body {
   background-size: 1200px 1200px;
 }
 
+
+.bg-danger {
+  display: table-row;
+}
+
+.bg-success {
+  display: table-row;
+}
+
 blockquote {
 
   width: 300px;
