@@ -11,6 +11,15 @@ body {
   background-size: 1200px 1200px;
 }
 
+.panel-heading {
+  background-color: beige;
+}
+
+h2 {
+text-align: center;
+}
+
+
 
 .bg-danger {
   display: table-row;
@@ -36,10 +45,7 @@ img {
 
 }
 
-.well {
-  background-color: transparent;
 
-}
 
 .special {
   width: 100px;
